@@ -33,7 +33,7 @@ nav {
     align-items: center;
 }
 
-.nav__link--list {
+.nav_link--list {
     display: flex;
 }
 
